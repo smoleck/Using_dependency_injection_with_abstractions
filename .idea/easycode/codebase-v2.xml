@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/example/model/Comment.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/proxies/CommentNotificationProxy.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/proxies/EmailCommentNotificationProxy.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/repositories/CommentRepository.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/repositories/DBCommentRepository.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/services/CommentService.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/AppConfig.java;/Users/kacpersmolkowski/Documents/kod/Using_dependency_injection_with_abstractions/src/main/java/org/example/Main.java" />
+  </component>
+</project>
